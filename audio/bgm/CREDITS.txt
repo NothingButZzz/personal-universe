@@ -1,0 +1,19 @@
+Background music for /universe  —  all tracks are CC0 1.0 Universal (public domain dedication).
+License text: https://creativecommons.org/publicdomain/zero/1.0/
+Attribution is NOT required by CC0; the authors are listed here as a courtesy.
+Source: OpenGameArt.org (license shown on each track page; checked 2026-11-24).
+
+Files were re-encoded (MP3, 96 kbps, loudness-normalised to about -20 LUFS, short fade in/out). The musical content is unchanged.
+
+ 1. Plains of Luminescence  - vitalezzz                         - https://opengameart.org/content/plains-of-luminescence   - CC0
+ 2. Through The Universe    - vitalezzz                         - https://opengameart.org/content/through-the-universe     - CC0
+ 3. Peace                   - vitalezzz                         - https://opengameart.org/content/peace                    - CC0
+ 4. Another August          - The Cynic Project (cynicmusic)    - https://opengameart.org/content/another-august           - CC0
+ 5. Specular City           - vitalezzz                         - https://opengameart.org/content/specular-city            - CC0
+ 6. Stop For A Moment       - vitalezzz                         - https://opengameart.org/content/stop-for-a-moment        - CC0
+ 7. Sirens in Darkness      - The Cynic Project (cynicmusic)    - https://opengameart.org/content/sirens-in-darkness       - CC0
+ 8. Celestial Harmony       - vitalezzz                         - https://opengameart.org/content/celestial-harmony        - CC0
+ 9. Gravity Turn (calm)     - vitalezzz                         - https://opengameart.org/content/gravity-turn             - CC0
+10. Solar Sail              - vitalezzz                         - https://opengameart.org/content/solar-sail               - CC0
+
+The Cynic Project (cynicmusic) asks, but does not require: "The Cynic Project / cynicmusic.com / pixelsphere.org".
